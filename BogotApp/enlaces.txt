@@ -1,0 +1,8 @@
+Documentación SplashScreen
+https://developer.android.com/reference/kotlin/androidx/core/splashscreen/SplashScreen
+
+Dependencies SplashScreen
+https://developer.android.com/jetpack/androidx/releases/core?hl=es-419
+
+Video uso SplashScreen
+https://youtu.be/vkWZIuB4RZA (hasta el minuto 9:31)
